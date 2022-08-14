@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1038366060613",
+    "project_id": "musicapp-7bcb1",
+    "storage_bucket": "musicapp-7bcb1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1038366060613:android:98418d87de7ed48b4ef32c",
+        "android_client_info": {
+          "package_name": "krishnaapps.com.musicapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1038366060613-j4u2f3md9q3uvh48krtvrivmkn8pf7cd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBe1Bu_5Kl3svYXPWdpSbLZWmB6hMZgI74"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1038366060613-j4u2f3md9q3uvh48krtvrivmkn8pf7cd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
